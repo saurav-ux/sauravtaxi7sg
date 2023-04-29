@@ -37,7 +37,7 @@ To deploy this project run
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+ https://sauravtaxi.netlify.app/
 ```
 - Install Node.js
 - Install a Text Editor
@@ -58,14 +58,11 @@ Copy all Folders like components ,public,source
 ```bash
   npm start
 ```
+Snapshots
+
+![image](https://user-images.githubusercontent.com/72144149/235319229-fdd09d01-4271-4f5d-af7b-a7769d6bf756.png)
+![image](https://user-images.githubusercontent.com/72144149/235319289-8be943a7-dfb5-4049-a886-cfc1252507d3.png)
+![image](https://user-images.githubusercontent.com/72144149/235319301-903a9c51-a60e-44df-befd-c360195e1dec.png)
+![image](https://user-images.githubusercontent.com/72144149/235319310-7c1c53d3-81da-4861-ad5a-f501f02973b2.png)
 
 
-#� �s�a�u�r�a�v�t�a�x�i�
-�
-�#� �s�a�u�r�a�v�t�a�x�i�7�7�
-�
-�#� �s�a�u�r�a�v�t�a�x�i�i�
-�
-�#� �s�a�u�r�a�v�t�a�x�i�i�
-�
-�
